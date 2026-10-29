@@ -1,4 +1,4 @@
-# Build `drill`: a Bubble Tea TUI that gamifies a daily interview coding drill
+# Build `lazydrill`: a Bubble Tea TUI that gamifies a daily interview coding drill
 
 ## Who this is for and what it has to enforce
 
